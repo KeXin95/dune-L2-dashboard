@@ -72,8 +72,6 @@ ORDER BY 1 DESC
 
 After creating each query, save it and copy the Query ID from the URL (e.g., `dune.com/queries/1234567` → ID is `1234567`).
 
-📖 **Detailed setup instructions**: See [DUNE_SETUP_GUIDE.md](DUNE_SETUP_GUIDE.md)
-
 ### 3. Set Environment Variables
 
 **Local Development:**
